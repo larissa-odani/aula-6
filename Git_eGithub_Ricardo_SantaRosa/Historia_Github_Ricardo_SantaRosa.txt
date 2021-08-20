@@ -1,4 +1,4 @@
-a. Quem inventou o sistema de controle de versão Git e por quê?
+ALTERACAO LARI
 
 O Git foi projetado e desenvolvido por Linus Torvalds para o 
 desenvolvimento do Linux, mas, como o GIT atendia necessidades
